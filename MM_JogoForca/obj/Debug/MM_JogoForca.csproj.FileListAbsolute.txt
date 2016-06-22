@@ -1,0 +1,6 @@
+C:\VisualStudio\MM_JogoForca\bin\Debug\MM_JogoForca.exe.config
+C:\VisualStudio\MM_JogoForca\bin\Debug\MM_JogoForca.exe
+C:\VisualStudio\MM_JogoForca\bin\Debug\MM_JogoForca.pdb
+C:\VisualStudio\MM_JogoForca\obj\Debug\MM_JogoForca.csprojResolveAssemblyReference.cache
+C:\VisualStudio\MM_JogoForca\obj\Debug\MM_JogoForca.exe
+C:\VisualStudio\MM_JogoForca\obj\Debug\MM_JogoForca.pdb
